@@ -14,8 +14,7 @@ Este projeto se direciona prontamente para toda a comunidade, não apenas acadê
 DESIGN
 Para o design do site, esperamos um estilo limpo, sem muita poluição visual, onde cada componente seja bem alocado e bem organizado, assim facilitando a navegação.
 
-![image](https://github.com/Henrique-Nastari/Projeto-Aplicados-1/assets/93147784/2c78bf46-462a-49b4-b780-84b3c3c83127)
-
+![image](https://github.com/Henrique-Nastari/Projeto-Aplicados-1/assets/93147784/0bae540e-4339-4393-bb32-9ced5530ba35)
 
 
 ATUALIZAÇÕES E FUTURAS MANUTENÇÕES
